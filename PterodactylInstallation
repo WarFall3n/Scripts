@@ -8,7 +8,7 @@ apt upgrade -y
 apt install curl vim -y
 #curl https://raw.githubusercontent.com/MrFlacko/Scripts/master/UbuntuMirrors18.04 > /etc/apt/sources.list
 bash <(curl -s https://raw.githubusercontent.com/WarFall3n/Pterodactyl/master/oldpanelinstall.sh?token=AP6KXULAJKCW27XRC52YPSK65VN3S)
-bash <(curl -s https://raw.githubusercontent.com/WarFall3n/Pterodactyl/master/install-daemon.sh?token=AP6KXUJNXWFBH763QYUNZX265VOSW)
+bash <(curl -s https://raw.githubusercontent.com/WarFall3n/Pterodactyl/master/install-daemon.sh?token=AP6KXUJW2VQWAHPSX537HH265VO2M)
 apt update
 apt upgrade -y
 apt install ufw -y
