@@ -7,7 +7,7 @@ apt update
 apt upgrade -y 
 apt install curl vim -y
 #curl https://raw.githubusercontent.com/MrFlacko/Scripts/master/UbuntuMirrors18.04 > /etc/apt/sources.list
-bash <(curl -s https://raw.githubusercontent.com/MrFlacko/pterodactyl-installer/master/oldpanelinstall.sh)
+bash <(curl -s https://raw.githubusercontent.com/WarFall3n/Pterodactyl/master/oldpanelinstall.sh?token=AP6KXUN6BX624SFX4WQ452S65VMSK)
 bash <(curl -s https://raw.githubusercontent.com/VilhelmPrytz/pterodactyl-installer/master/install-daemon.sh)
 apt update
 apt upgrade -y
